@@ -31,7 +31,7 @@ export function setupAuth(app) {
     saveUninitialized: false,
     cookie: {},
     store: new MemoryStore({
-      checkPeriod: 86400000, // prune expired entries every 24h
+      checkPeriod: 86400000, 
     }),
   };
 
