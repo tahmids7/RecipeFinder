@@ -13,7 +13,6 @@ export default function SearchBar({ onSearch }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Only include filters that have been selected
     const activeFilters = {
       query,
       ...(filters.cuisine && { cuisine: filters.cuisine }),
@@ -27,7 +26,7 @@ export default function SearchBar({ onSearch }) {
       ...prev,
       [filterType]: value
     }));
-    // Automatically trigger search if there's an existing query
+    
     if (query) {
       onSearch({
         query,
