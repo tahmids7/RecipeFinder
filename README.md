@@ -17,9 +17,11 @@ _Backend:_
 - Typescript
 - PassportJS (User Authentication)
 
+
 _API:_ 
 - Spoonacular API
 
+
 _Database:_
 - PostgreeSQL
--  DrizzleORM
+- DrizzleORM
