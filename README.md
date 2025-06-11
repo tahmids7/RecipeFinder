@@ -42,15 +42,15 @@ Features
 
 <img width="1440" alt="Screenshot 2025-06-11 at 11 12 19 AM" src="https://github.com/user-attachments/assets/c8b529ae-6c24-4aa4-8609-9df6a2167f51" />
 
-<img width="1440" alt="Screenshot 2025-06-11 at 11 14 56 AM" src="https://github.com/user-attachments/assets/a8eb5854-a154-4b88-8b4b-8b2651e621ca" />
+<img width="1433" alt="Screenshot 2025-06-11 at 11 13 24 AM" src="https://github.com/user-attachments/assets/1c3dca51-eb2d-4a9b-b411-c097ce9f42cd" />
 
 
   
 
 * They can click on any recipe card of their choosing, and it will display a description of the dish, the instructions to make it, and an option to add the recipe card to their favorites section.
 
-  
-<img width="1433" alt="Screenshot 2025-06-11 at 11 13 24 AM" src="https://github.com/user-attachments/assets/9b69d150-ae4c-4c42-b620-77f7be05ef98" />
+<img width="1440" alt="Screenshot 2025-06-11 at 11 14 56 AM" src="https://github.com/user-attachments/assets/f2bac7c0-312d-47dc-9e11-f2694651bc05" />
+
 
 
 
