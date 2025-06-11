@@ -1,4 +1,4 @@
-_**Full-Stack Recipe Finder Web Application**_
+# Full-Stack Recipe Finder Web Application
 
 _FrontEnd:_
 - ReactJS with Typescript
