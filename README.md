@@ -42,6 +42,9 @@ Features
 
 <img width="1440" alt="Screenshot 2025-06-11 at 11 12 19 AM" src="https://github.com/user-attachments/assets/c8b529ae-6c24-4aa4-8609-9df6a2167f51" />
 
+<img width="1440" alt="Screenshot 2025-06-11 at 11 14 56 AM" src="https://github.com/user-attachments/assets/a8eb5854-a154-4b88-8b4b-8b2651e621ca" />
+
+
   
 
 * They can click on any recipe card of their choosing, and it will display a description of the dish, the instructions to make it, and an option to add the recipe card to their favorites section.
